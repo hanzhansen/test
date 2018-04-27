@@ -22,6 +22,7 @@
     
     [self.view addSubview:self.actionButton];
     
+    //A  第一次提交
 }
 
 - (void)actionButtonAction:(UIButton *)sender
