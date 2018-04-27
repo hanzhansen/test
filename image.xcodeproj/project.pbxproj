@@ -15,6 +15,7 @@
 		B918E3822091B51500B67579 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B918E3812091B51500B67579 /* main.m */; };
 		B918E38C2091B51500B67579 /* imageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B918E38B2091B51500B67579 /* imageTests.m */; };
 		B918E3972091B51500B67579 /* imageUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B918E3962091B51500B67579 /* imageUITests.m */; };
+		B9DFA4322092D3E100EA8D03 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9DFA4312092D3E100EA8D03 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		B918E3922091B51500B67579 /* imageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = imageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B918E3962091B51500B67579 /* imageUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = imageUITests.m; sourceTree = "<group>"; };
 		B918E3982091B51500B67579 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9DFA4302092D3E100EA8D03 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		B9DFA4312092D3E100EA8D03 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				B918E3732091B51300B67579 /* AppDelegate.m */,
 				B918E3752091B51300B67579 /* ViewController.h */,
 				B918E3762091B51300B67579 /* ViewController.m */,
+				B9DFA4302092D3E100EA8D03 /* TestViewController.h */,
+				B9DFA4312092D3E100EA8D03 /* TestViewController.m */,
 				B918E3782091B51300B67579 /* Main.storyboard */,
 				B918E37B2091B51500B67579 /* Assets.xcassets */,
 				B918E37D2091B51500B67579 /* LaunchScreen.storyboard */,
@@ -264,6 +269,7 @@
 			files = (
 				B918E3772091B51300B67579 /* ViewController.m in Sources */,
 				B918E3822091B51500B67579 /* main.m in Sources */,
+				B9DFA4322092D3E100EA8D03 /* TestViewController.m in Sources */,
 				B918E3742091B51300B67579 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
