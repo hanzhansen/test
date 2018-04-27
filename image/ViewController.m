@@ -21,20 +21,7 @@
     [self.view addSubview:self.tableView];
     
     [self.view addSubview:self.actionButton];
-    
-    //第一次提交
-    
-    //第二次提交
-    self.view.backgroundColor = [UIColor redColor];
-    
-    //第三次提交
-    
-    
-    //第四次提交
-    
-    //第五次提交哈哈
-    
-    //第六次提交
+
 }
 
 - (void)actionButtonAction:(UIButton *)sender
