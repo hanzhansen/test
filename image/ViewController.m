@@ -23,6 +23,9 @@
     [self.view addSubview:self.actionButton];
     
     //第一次提交
+    
+    //第二次提交
+    self.view.backgroundColor = [UIColor redColor];
 }
 
 - (void)actionButtonAction:(UIButton *)sender
