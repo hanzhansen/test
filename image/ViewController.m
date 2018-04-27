@@ -23,6 +23,9 @@
     [self.view addSubview:self.actionButton];
     
     //A  第一次提交
+    
+    //A 第二次提交
+    
 }
 
 - (void)actionButtonAction:(UIButton *)sender
