@@ -22,7 +22,6 @@
     
     [self.view addSubview:self.actionButton];
     
-    
 }
 
 - (void)actionButtonAction:(UIButton *)sender
